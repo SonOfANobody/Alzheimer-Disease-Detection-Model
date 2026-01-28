@@ -101,7 +101,9 @@ This project is not intended for real-world medical diagnosis. Predictions shoul
 ## 👤 Author
 
 **Muhammad Abdulkareem**
+
 abdulkareemmuhammad683@gmail.com
+
 www.linkedin.com/in/sonofanobody12
 ---
 
